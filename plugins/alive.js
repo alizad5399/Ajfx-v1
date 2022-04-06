@@ -29,7 +29,7 @@ Kaztroser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, 
       
       const buttonMessage = {
           contentText: '```'+Config.BOT+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: 'Config.OA_NAME',
+          footerText: 'ᴀᴊғx',
           buttons: buttons,
           headerType: 1
       }
