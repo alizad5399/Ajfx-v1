@@ -4,7 +4,7 @@
 <span class="avatar"><img height='320' src="https://i.imgur.com/7AreZxA.jpeg"> </a></span> 
 </p>
   <p align="center">
-<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Owner-𝗔𝗝𝗙𝗫-Ajfx/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Owner-𝗔𝗝𝗙𝗫-Ajfx-v1/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
 ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/cyberchekuthan">ᴀͥᴊͭᴀᷤʏᴀͫɴͤ</a>
@@ -14,7 +14,7 @@
     <br> 
 </p>
 
-### 𝗜𝗡𝗦𝗧𝗔 𝗣𝗔𝗦𝗦𝗪𝗢𝗥𝗗:ajfx
+### 𝗜𝗡𝗦𝗧𝗔 𝗣𝗔𝗦𝗦𝗪𝗢𝗥𝗗:Ajfx-v1
 
 ### SIMPLE SETUP
 
@@ -32,24 +32,24 @@
 
 4.
 <p align="center">
- <a href="https://github.com/Aj-fx/Ajfx/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
+ <a href="https://github.com/Aj-fx/Ajfx-v1/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
 
-5. https://heroku.com/deploy?template=https://github.com/Aj-fx/Ajfx copy this url and change Aj-fx with your github username and go<br>
+5. https://heroku.com/deploy?template=https://github.com/Aj-fx/Ajfx-v1 copy this url and change Aj-fx with your github username and go<br>
 
 
   <p align="center">
-  <a href="httsp://github.com/Aj-fx/Ajfx">
+  <a href="httsp://github.com/Aj-fx/Ajfx-v1">
    <p align="center">
-<a href="https://github.com/Aj-fx/Ajfx/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
+<a href="https://github.com/Aj-fx/Ajfx-v1/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
 <a href="https://github.com/Aj-fx/followers">
   <p align="center">
-<img src="https://img.shields.io/github/repo-size/Aj-fx/Ajfx?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/Aj-fx/Ajfx-v1?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Aj-fx/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Ajfx/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx/Ajfx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Ajfx/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx/Ajfx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Ajfx/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Ajfx?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx/Ajfx-v1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx/Ajfx-v1?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx/Ajfx-v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx/Ajfx-v1?color=blue&style=flat-square"></a>
+<a href="https://github.com/Aj-fx/Ajfx-v1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Ajfx-v1?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
