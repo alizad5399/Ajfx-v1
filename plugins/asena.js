@@ -128,7 +128,7 @@ if (Config.WORKTYPE == 'private') {
         }
     }));
     
-    Asena.addCommand({pattern: 'menu ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'assist ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
 
         var CMD_HELP = '';
         if (match[1] === '') {
@@ -365,7 +365,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
 
 else if (Config.WORKTYPE == 'public') {
 
-    Asena.addCommand({pattern: 'menu ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'assist ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
         var img = image.skbuffer(Config.LOGOSK)
         var CMD_HELP = '';
         if (match[1] === '') {
