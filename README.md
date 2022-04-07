@@ -4,7 +4,7 @@
 <span class="avatar"><img height='320' src="https://i.imgur.com/7AreZxA.jpeg"> </a></span> 
 </p>
   <p align="center">
-<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Owner-𝗔𝗝𝗙𝗫-Ajfx-v1/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Owner-𝗔𝗝𝗙𝗫-Ajfxv1/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
 ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/cyberchekuthan">ᴀͥᴊͭᴀᷤʏᴀͫɴͤ</a>
