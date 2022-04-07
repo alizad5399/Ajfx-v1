@@ -1,14 +1,14 @@
 {
-  "name": "Ajfx",
+  "name": "Ajfx-v1",
   "version": "7.3.6",
-  "description": "Ajfx  is a Modified Version of WhatsAsena, Made By Aj-fx.",
-  "main": "./Ajfx/bot.js",
+  "description": "Ajfx-v1  is a Modified Version of WhatsAsena, Made By Aj-fx.",
+  "main": "./Ajfx-v1/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aj-fx/Ajfx.git"
+    "url": "git+https://github.com/Aj-fx/Ajfx-v1.git"
   },
   "keywords": [
     "whatsapp",
@@ -21,9 +21,9 @@
   "developer": "@Aj-fx",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Aj-fx/Ajfx/issues"
+    "url": "https://github.com/Aj-fx/Ajfx-v1/issues"
   },
-  "homepage": "https://github.com/Aj-fx/Ajfx#readme",
+  "homepage": "https://github.com/Aj-fx/Ajfx-v1#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "raganork-bot": "1.9.5",
