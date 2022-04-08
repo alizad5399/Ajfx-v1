@@ -24,7 +24,7 @@
 <a href="https://github.com/signup/"><span class="avatar"><img height='120' src="./photo/Kaztroser-19.png" alt="Error"> </a></span>
  
 2.
-<a href="https://replit.com/@Aj-fx/Kaztroser?v=1"><span class="avatar"><img height='120' src="./photo/Kaztroser-16.png" alt="Error"> </a></span>
+<a href="https://replit.com/@Aj-fx/Kaztroser?v=1"><span class="avatar"><img height='130' src="https://i.imgur.com/1W3xuZa.png" alt="Error"> </a></span>
   
 3.
 <p align="center">
@@ -32,7 +32,7 @@
 
 4.
 <p align="center">
- <a href="https://github.com/Aj-fx/Ajfx-v1/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
+ <a href="https://github.com/Aj-fx/Ajfx-v1/fork"><span class="avatar"><img height='130' src="https://i.imgur.com/0s9Auna.png" alt="Error"> </a></span>
 
 5. https://heroku.com/deploy?template=https://github.com/Aj-fx/Ajfx-v1 copy this url and change Aj-fx with your github username and go<br>
 
