@@ -14,28 +14,23 @@
     <br> 
 </p>
 
-### 𝗜𝗡𝗦𝗧𝗔 𝗣𝗔𝗦𝗦𝗪𝗢𝗥𝗗:Ajfx-v1
+### 𝗜𝗡𝗦𝗧𝗔 𝗣𝗔𝗦𝗦𝗪𝗢𝗥𝗗:ajfx
 
 ### SIMPLE SETUP
 
 ## follow 5 step
-1.
-<p align="center">
-<a href="https://github.com/signup/"><span class="avatar"><img height='120' src="./photo/Kaztroser-19.png" alt="Error"> </a></span>
- 
-2.
-<a href="https://replit.com/@Aj-fx/Kaztroser?v=1"><span class="avatar"><img height='130' src="https://i.imgur.com/1W3xuZa.png" alt="Error"> </a></span>
-  
-3.
-<p align="center">
- <a href="https://signup.heroku.com"><span class="avatar"><img height='120' src="./photo/Kaztroser-17.png" alt="Error"> </a></span>
+## 1 <a href="https://github.com/signup/" target="_blank"><img src="https://img.shields.io/badge/GitHub....-%231877F2.svg?&style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a> 
 
-4.
-<p align="center">
- <a href="https://github.com/Aj-fx/Ajfx-v1/fork"><span class="avatar"><img height='130' src="https://i.imgur.com/0s9Auna.png" alt="Error"> </a></span>
+## 2 <a href="https://replit.com/@Aj-fx/Kaztroser?v=1" target="_blank"><img src="https://img.shields.io/badge/Ajfx-Qrcode-%808080.svg?&style=flat-square&logo=Qr&logoColor=white" alt="Qrcode"></a>
 
-5. https://heroku.com/deploy?template=https://github.com/Aj-fx/Ajfx-v1 copy this url and change Aj-fx with your github username and go<br>
+## 3 <a href="https://signup.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku...-%23E4405F.svg?&style=flat-square&logo=Heroku&logoColor=white" alt="Heroku"></a>
 
+## 4 <a href="https://github.com/Aj-fx/Ajfx-v1/fork" target="_blank"><img src="https://img.shields.io/badge/Fork-Ajfx...-%808080.svg?&style=flat-square&logo=GitHub &logoColor=white" alt="GitHub"></a>
+
+## 5 https://heroku.com/deploy?template=https://github.com/Aj-fx/Ajfx-v1 copy this url and change Aj-fx with your github username and go<br>
+
+</p>
+</div>
 
   <p align="center">
   <a href="httsp://github.com/Aj-fx/Ajfx-v1">
