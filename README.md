@@ -27,7 +27,7 @@
 
 ## 4 <a href="https://github.com/Aj-fx/Ajfx-v1/fork" target="_blank"><img src="https://img.shields.io/badge/Fork-Ajfx...-%808080.svg?&style=flat-square&logo=GitHub &logoColor=white" alt="GitHub"></a>
 
-## 5 https://heroku.com/deploy?template=https://github.com/Aj-fx/Ajfx-v1 copy this url and change Aj-fx with your github username and go<br>
+## 5 https://heroku.com/deploy?template=https://github.com/alizad5399/Ajfx-v1 copy this url and change Aj-fx with your github username and go<br>
 
 </p>
 </div>
