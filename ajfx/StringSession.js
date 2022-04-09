@@ -13,7 +13,7 @@ class StringSession {
     }
 
     deCrypt(string = undefined) {
-        if ('KAZTROSER_CODE' in process.env && string === undefined) {
+        if ('ABU_QR_CODE' in process.env && string === undefined) {
             string = process.env.STRING_SESSION;
         } else if (string !== undefined) {
             if (fs.existsSync(string)) {
@@ -28,7 +28,7 @@ class StringSession {
     }
 
     createStringSession(dict) {
-        return 'Kaztroser;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'Abu;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
     }
 }
 
